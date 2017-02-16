@@ -62,3 +62,16 @@ Initialize a string with the format (using string interpolation) "%02d: %02d.%d"
 Example:
 
 	let timeString = String(format: "%02d:%02d.%d", double1, double2, double3)
+	
+	
+## Grading ##
+
+Once you have finished, please submit your files to [Gradescope](https://gradescope.com/courses/5482) You will need to submit files EVEN if you are being checked off, since Gradescope does not support submission-less grading at the moment. You will need to submit a zip folder of all of your project files (compress and submit the folder you cloned from GitHub).
+
+If you've finished during lab and need to get checked off, please fill out one of the following forms (based off what lab you are in): 
+
+- [310 Soda Lab Lab Check-Off Form](https://goo.gl/forms/SXgw5hVhrp8Qc5dj2)
+
+- [220 Jacobs Lab Lab Check-Off Form]()
+
+We will grade your work based off the following criteria (all requirements must be satisfied to receive credit).
