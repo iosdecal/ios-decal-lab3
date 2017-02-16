@@ -66,7 +66,9 @@ Example:
 	
 ## Grading ##
 
-Once you have finished, please submit your files to [Gradescope](https://gradescope.com/courses/5482) You will need to submit files EVEN if you are being checked off, since Gradescope does not support submission-less grading at the moment. You will need to submit a zip folder of all of your project files (compress and submit the folder you cloned from GitHub).
+Once you have finished, please submit your files to [Gradescope](https://gradescope.com/courses/5482). You will need to submit files EVEN if you are being checked off, since Gradescope does not support submission-less grading at the moment. We have enabled group submission for this assignment, so make sure to include your partner's name if you only worked on one computer.
+
+Rather than zipping your project folder, you can simply drag and drop it into Gradescope (we've configured Gradescope to ignore .git files now, so hopefully you won't run into issues this time!)
 
 If you've finished during lab and need to get checked off, please fill out one of the following forms (based off what lab you are in): 
 
@@ -74,4 +76,4 @@ If you've finished during lab and need to get checked off, please fill out one o
 
 - [220 Jacobs Lab Lab Check-Off Form]()
 
-We will grade your work based off the following criteria (all requirements must be satisfied to receive credit).
+Also, **be sure to check in for attendance if you are leaving lab without having finished and getting checked off.**
