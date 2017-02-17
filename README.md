@@ -75,6 +75,6 @@ If you've finished during lab and need to get checked off, please fill out one o
 
 - [310 Soda Lab Lab Check-Off Form](https://goo.gl/forms/SXgw5hVhrp8Qc5dj2)
 
-- [220 Jacobs Lab Lab Check-Off Form]()
+- [220 Jacobs Lab Lab Check-Off Form](https://goo.gl/forms/ENHSvWA3ZRMhYHug1)
 
 Also, **be sure to check in for attendance if you are leaving lab without having finished and getting checked off.**
