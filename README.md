@@ -9,8 +9,9 @@ If you haven't noticed already, there's no starter code for this lab. That's bec
 
 In this lab, you will be making a simple stopwatch app. In particular, your app must include the following: 
 
-- Start/Stop Buttons that start/stop the time
-- Display that indicates how much time has elapsed (seconds). Pressing the start button should reset the stopwatch, while pressing stop should stop the the display from updating.
+- Start/Stop Buttons that start and stop the stopwatch
+- Display that indicates how much time has elapsed (minutes : seconds : milliseconds)
+- Pressing the start button should reset the stopwatch's timer, while pressing stop should stop the the display from updating.
 
 Also, since we would like you to get familiar with the Model View Controller design pattern, your application structure must include the following:
 
