@@ -2,7 +2,9 @@
 ![alt text](/README-images/preview.png)
 
 ## Due Date ##
-Tuesday, February 21st at 11:59 pm
+**The deadline has been pushed back to Thursday, February 23rd at 11:59 pm**
+
+Next week's lab will be converted to an office hours section.
 
 ## General Overview ##
 If you haven't noticed already, there's no starter code for this lab. That's because today we would like you to get experience creating an application completely from scratch. 
