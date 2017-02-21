@@ -71,7 +71,7 @@ Example:
 
 Once you have finished, please submit your files to [Gradescope](https://gradescope.com/courses/5482). You will need to submit files EVEN if you are being checked off, since Gradescope does not support submission-less grading at the moment. We have enabled group submission for this assignment, so make sure to include your partner's name if you only worked on one computer.
 
-Rather than zipping your project folder, you can simply drag and drop it into Gradescope (we've configured Gradescope to ignore .git files now, so hopefully you won't run into issues this time!)
+To submit, please open your ios-decal-lab3 folder, and compress the contents inside (not the folder itself). This should generate a file, **Archive.zip**, that you can submit to Gradescope.
 
 If you've finished during lab and need to get checked off, please fill out one of the following forms (based off what lab you are in): 
 
