@@ -64,14 +64,14 @@ Initialize a string with the format (using string interpolation) "%02d: %02d.%d"
 
 Example:
 
-	let timeString = String(format: "%02d:%02d.%d", double1, double2, double3)
+	let timeString = String(format: "%02d:%02d.%d", int1, int2, int3)
 	
 	
 ## Grading ##
 
 Once you have finished, please submit your files to [Gradescope](https://gradescope.com/courses/5482). You will need to submit files EVEN if you are being checked off, since Gradescope does not support submission-less grading at the moment. We have enabled group submission for this assignment, so make sure to include your partner's name if you only worked on one computer.
 
-To submit, please upload your code to either GitHub or Bitbucket, and use the "Github" or "Bitbucket" submission feature on Gradescope (we've experienced the fewest amount of bugs with students who have submitted this way). 
+To submit, please upload your code to either GitHub or Bitbucket, and use the "Github" or "Bitbucket" submission feature on Gradescope (we've experienced the fewest amount of bugs with students who have submitted this way). Please check out the [slides in Lecture 3](http://iosdecal.com/Lectures/Lecture3.pdf) for step-by-step submission instructions if you're confused about how to do this (or ask a TA!)
 
 Alternatively you can submit your lab as a zip folder. To do this please open your ios-decal-lab3 folder, and compress the contents inside (not the folder itself). This should generate a file, **Archive.zip**, that you can submit to Gradescope.
 
@@ -80,5 +80,3 @@ If you've finished during lab and need to get checked off, please fill out one o
 - [310 Soda Lab Lab Check-Off Form](https://goo.gl/forms/SXgw5hVhrp8Qc5dj2)
 
 - [220 Jacobs Lab Lab Check-Off Form](https://goo.gl/forms/ENHSvWA3ZRMhYHug1)
-
-Also, **be sure to check in for attendance if you are leaving lab without having finished and getting checked off.**
